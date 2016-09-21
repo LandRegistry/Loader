@@ -153,8 +153,8 @@
       <Type>String</Type>
     </PropertyDefn>
     <PropertyDefn>
-      <Name>name</Name>
-      <ElementPath>name</ElementPath>
+      <Name>distinctiveName</Name>
+      <ElementPath>distinctiveName</ElementPath>
       <Type>String</Type>
     </PropertyDefn>
     <PropertyDefn>
@@ -252,8 +252,8 @@
       <Type>String</Type>
     </PropertyDefn>
     <PropertyDefn>
-      <Name>name</Name>
-      <ElementPath>name</ElementPath>
+      <Name>distinctiveName</Name>
+      <ElementPath>distinctiveName</ElementPath>
       <Type>String</Type>
     </PropertyDefn>
     <PropertyDefn>
@@ -328,6 +328,26 @@
       <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>drawLevel</Name>
+      <ElementPath>drawLevel</ElementPath>
+      <Type>Integer</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>distinctiveName</Name>
+      <ElementPath>distinctiveName</ElementPath>
+      <Type>String</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>override</Name>
+      <ElementPath>override</ElementPath>
+      <Type>String</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>roadNumber</Name>
+      <ElementPath>roadNumber</ElementPath>
+      <Type>String</Type>
     </PropertyDefn>
   </GMLFeatureClass>
   <GMLFeatureClass>
@@ -476,6 +496,32 @@
       <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
+    </PropertyDefn>
+  </GMLFeatureClass>
+  <GMLFeatureClass>
+    <Name>FunctionalSite</Name>
+    <ElementPath>FunctionalSite</ElementPath>
+    <GeometryType>1</GeometryType>
+    <SRSName>EPSG:27700</SRSName>
+    <PropertyDefn>
+      <Name>fid</Name>
+      <ElementPath>fid</ElementPath>
+      <Type>String</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>featureCode</Name>
+      <ElementPath>featureCode</ElementPath>
+      <Type>Integer</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>classification</Name>
+      <ElementPath>classification</ElementPath>
+      <Type>String</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>distinctiveName</Name>
+      <ElementPath>distinctiveName</ElementPath>
+      <Type>String</Type>
     </PropertyDefn>
   </GMLFeatureClass>
 </GMLFeatureClassList>

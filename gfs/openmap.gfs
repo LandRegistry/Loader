@@ -6,7 +6,7 @@
     <GeometryType>3</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -17,7 +17,7 @@
     <GeometryType>2</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -28,7 +28,7 @@
     <GeometryType>3</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -39,7 +39,7 @@
     <GeometryType>6</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -66,7 +66,7 @@
     <GeometryType>3</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -77,7 +77,7 @@
     <GeometryType>3</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -104,7 +104,7 @@
     <GeometryType>1</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -121,7 +121,7 @@
     <GeometryType>1</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -160,7 +160,7 @@
     <GeometryType>1</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -181,7 +181,7 @@
     <GeometryType>2</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -198,7 +198,7 @@
     <GeometryType>2</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -209,7 +209,7 @@
     <GeometryType>2</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -236,7 +236,7 @@
     <GeometryType>2</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -247,7 +247,7 @@
     <GeometryType>1</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -264,7 +264,7 @@
     <GeometryType>3</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -275,7 +275,7 @@
     <GeometryType>2</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -286,7 +286,7 @@
     <GeometryType>2</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -303,7 +303,7 @@
     <GeometryType>3</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>
@@ -314,7 +314,7 @@
     <GeometryType>3</GeometryType>
     <SRSName>urn:ogc:def:crs:EPSG::27700</SRSName>
     <PropertyDefn>
-      <Name>featurecode</Name>
+      <Name>featureCode</Name>
       <ElementPath>featureCode</ElementPath>
       <Type>Integer</Type>
     </PropertyDefn>

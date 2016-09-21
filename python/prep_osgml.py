@@ -142,6 +142,7 @@ class prep_vmd(prep_osgml):
             'Building',
             'ElectricityTransmissionLine',
             'Foreshore',
+            'FunctionalSite',
             'Glasshouse',
             'HeritageSite',
             'Land',
